@@ -2,6 +2,7 @@
 
 /**
   * @author https://github.com/webfay
+  * ЗАЧЕМ ТЫ ПИЗДИШЬ ЧУЖОЙ КОД???
   * @version 0.0.1
 */
 
